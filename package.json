@@ -1,0 +1,46 @@
+{
+  "name": "co-work",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.24",
+    "@fortawesome/free-solid-svg-icons": "^5.11.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "bootstrap": "^4.3.1",
+    "interactjs": "^1.6.1",
+    "joi-browser": "^13.4.0",
+    "materialize-css": "^1.0.0",
+    "moment": "^2.24.0",
+    "rc-calendar": "^9.15.5",
+    "rc-time-picker": "^3.7.2",
+    "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.12",
+    "react-calendar-timeline": "^0.26.1",
+    "react-dom": "^16.9.0",
+    "react-fontawesome": "^1.6.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.1",
+    "react-time-picker": "^3.7.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

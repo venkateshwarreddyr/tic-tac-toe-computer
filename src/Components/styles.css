@@ -1,0 +1,124 @@
+.navbarClass {
+  background-color: red;
+}
+
+.datepicker {
+  display: inline !important;
+}
+.duration {
+  margin-top: 42px;
+  height: 300px;
+}
+.rooms-table {
+  height: 300px;
+  overflow: scroll;
+}
+
+.color {
+  border-radius: 5px;
+  background: #78bec5;
+  padding: 20px 0px;
+  width: 200px;
+  margin: auto;
+  height: 70px;
+  position: relative;
+  text-align: center;
+  margin: 2px;
+}
+.icon {
+  transform: translate(-50%, -50%);
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.no-icon {
+  display: none;
+}
+.color-hover {
+  margin: 2px;
+  background-color: #3d4250;
+  border-radius: 5px;
+  /* background: #78bec5; */
+  /* padding: 20px; */
+  /* width: 200px; */
+  /* position: relative; */
+  /* margin: 7px; */
+  cursor: pointer;
+  vertical-align: middle;
+  text-align: center;
+}
+.checked {
+  /* background-color: #78bec5; */
+}
+.box {
+  margin: 0 auto;
+  width: 250px;
+  height: 50px;
+  position: relative;
+}
+.completed {
+  pointer-events: none;
+  -webkit-filter: blur(4px);
+  -moz-filter: blur(4px);
+  -ms-filter: blur(4px);
+  -o-filter: blur(4px);
+  filter: blur(4px);
+}
+.hide-button {
+  display: none !important;
+}
+.show-button {
+  position: absolute;
+  z-index: 10;
+  top: 50px;
+  left: 20px;
+  text-align: center;
+}
+.main-div {
+  height: 250px;
+}
+.restart-button {
+  cursor: pointer;
+  background-color: #4caf50; /* Green */
+}
+.firstPlayer {
+  background-color: #dc685a !important;
+}
+.secondPlayer {
+  background-color: #ecaf4f !important;
+}
+.button-div {
+  width: 70px !important;
+  text-align: center;
+}
+
+.booking-container {
+  grid-row-gap: 500px !important;
+}
+
+.left-content {
+  background-color: rgb(45, 62, 80);
+}
+.right-content {
+  background-color: lightblue;
+}
+.main-content {
+  width: 21cm;
+  height: 29.7;
+  margin: 0 auto;
+}
+.main-container {
+  margin: 0 auto;
+}
+
+.name {
+  font-size: 30px;
+  color: rgb(41, 182, 246);
+  text-align: center;
+}
+.role {
+  color: white;
+  font-size: 16px;
+  text-align: center;
+}
