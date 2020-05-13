@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee2b80a9.chunk.css",
-    "main.js": "/static/js/main.d607520e.chunk.js",
-    "main.js.map": "/static/js/main.d607520e.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.7c675cf6.js",
-    "runtime~main.js.map": "/static/js/runtime~main.7c675cf6.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.6982e4bb.chunk.js": "/static/js/2.6982e4bb.chunk.js",
-    "static/js/2.6982e4bb.chunk.js.map": "/static/js/2.6982e4bb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2c46b1554cd6d2e492652444572ef765.js": "/precache-manifest.2c46b1554cd6d2e492652444572ef765.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.ee2b80a9.chunk.css.map": "/static/css/main.ee2b80a9.chunk.css.map"
+    "main.css": "/tic-tac-toe-computer/static/css/main.ee2b80a9.chunk.css",
+    "main.js": "/tic-tac-toe-computer/static/js/main.9a0f1218.chunk.js",
+    "main.js.map": "/tic-tac-toe-computer/static/js/main.9a0f1218.chunk.js.map",
+    "runtime~main.js": "/tic-tac-toe-computer/static/js/runtime~main.78a25192.js",
+    "runtime~main.js.map": "/tic-tac-toe-computer/static/js/runtime~main.78a25192.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/tic-tac-toe-computer/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.6982e4bb.chunk.js": "/tic-tac-toe-computer/static/js/2.6982e4bb.chunk.js",
+    "static/js/2.6982e4bb.chunk.js.map": "/tic-tac-toe-computer/static/js/2.6982e4bb.chunk.js.map",
+    "index.html": "/tic-tac-toe-computer/index.html",
+    "precache-manifest.fc9009424e6f353086f282efc0c4666d.js": "/tic-tac-toe-computer/precache-manifest.fc9009424e6f353086f282efc0c4666d.js",
+    "service-worker.js": "/tic-tac-toe-computer/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/tic-tac-toe-computer/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.ee2b80a9.chunk.css.map": "/tic-tac-toe-computer/static/css/main.ee2b80a9.chunk.css.map"
   }
 }
